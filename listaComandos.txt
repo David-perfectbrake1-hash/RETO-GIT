@@ -1,0 +1,7 @@
+git clone: 
+<
+Crea un nuevo directorio en la computadora 
+con una copia completa de todo el repositorio 
+con todos los archivos, ramas y el historial 
+del repositorio origen.
+>
