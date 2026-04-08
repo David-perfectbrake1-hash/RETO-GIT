@@ -5,3 +5,10 @@ con una copia completa de todo el repositorio
 con todos los archivos, ramas y el historial 
 del repositorio origen.
 >
+
+git commit: 
+<
+Registra en el historial del repositorio 
+una instantánea de los cambios preparados, 
+junto con un mensaje que describe lo que se modificó.
+>
