@@ -12,3 +12,25 @@ Registra en el historial del repositorio
 una instantánea de los cambios preparados, 
 junto con un mensaje que describe lo que se modificó.
 >
+
+git push: 
+<
+Envía los commits guardados en el repositorio local 
+hacia un repositorio remoto (como GitHub) 
+para tener un respaldo en la nube.
+> 
+
+git status: 
+<
+Muestra el estado actual del proyecto.
+Indica qué archivos han sido modificados, 
+cuáles están en el stage listos para el commit.
+> 
+
+git add: 
+<
+Agrega los cambios de los archivos al stage (área de preparación),
+marcándolos como listos 
+para ser incluidos en el próximo "commit" 
+o versión del historial.
+>
